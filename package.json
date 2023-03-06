@@ -1,0 +1,23 @@
+{
+  "name": "fcc-magazine",
+  "version": "1.0.0",
+  "description": "A free code camp magazine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-rizz/FCC-Magazine.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Conrad P Bugingo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-rizz/FCC-Magazine/issues"
+  },
+  "homepage": "https://github.com/G-rizz/FCC-Magazine#readme"
+}
